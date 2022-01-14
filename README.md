@@ -2,8 +2,8 @@
 
 | Serial Number | Name | Institute | Eligibility | Deadline | Documents | Applying status |
 | ------------- |----- | --------- | ----------- | -------- | ----- | --------------- |
-| 1. | [Summer Student Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | ETH Zurich | - Your expected graduation date in your current study programme (bachelor or master) is in the year following the fellowship or later. </br> - You will have completed two years of study by start of the programme (master students naturally satisfy this condition). | 15th December | - Does not require LOR. </br> - Requires official academic transcript, Letter of Motivation and CV. | Applied |
-| 2. | [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute, New Mexico | - College seniors graduating before December 2022 are not eligible. | 11th January | - Requires one LOR. </br> - Requires official academic transcript, Research statement and CV. | Applied |
+| 1. | [Summer Student Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | ETH Zurich | - Your expected graduation date in your current study programme (bachelor or master) is in the year following the fellowship or later. </br> - You will have completed two years of study by start of the programme (master students naturally satisfy this condition). | 15th December | - Does not require LOR. </br> - Requires official academic transcript, Letter of Motivation and CV. | Apply nxt year |
+| 2. | [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute, New Mexico | - College seniors graduating before December 2022 are not eligible. | 11th January | - Requires one LOR. </br> - Requires official academic transcript, Research statement and CV. | Apply nxt year |
 | 3. | [Summer at EFPL](https://summer.epfl.ch/) | EFPL | - At the time of application, applicants must be enrolled in the 2nd year Bachelor or above (therefore, all applicants must have successfully completed at least their 1st year of the Bachelor's programme). | 1st December | - Does not require LOR. </br> - Requires official academic transcript, Letter of Motivation and CV. | Missed, apply next year |
 | 4. | [MITACS](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) | Canadian Universities | - Have one to three semesters remaining in their program as of Fall 202X. | September | - Requires LOR. </br> - Requires official academic transcript, Letter of Motivation and CV. | Missed, apply next year |
 | 5. | [NTU India Connect](https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu) | NTU | - Open to Pre-final year graduates / undergraduates who have not studied at NTU previously. | ![image](https://user-images.githubusercontent.com/74055102/146565325-5f1fa5cf-ffdb-4cc4-b909-03b5584ce2b0.png) | - Academic Referee Letters (2 such letters are required) and Recommendation Letter are mandatory. </br> - Requires official academic transcript, Letter of Motivation and CV. | Apply next year |
@@ -41,12 +41,10 @@
 # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
 | ------------- |----- | ------------------ | ----------------- | --------------- |
-| 1. | [PyConDE](https://2022.pycon.de/) | Python | 16th January | Applied |
-| 2. | [Kiwi PyCon](https://python.nz/) | Python | 30th November | Missed |
-| 3. | [PyCon Italia](https://pycon.it/en/) | Python | 9th January | Applied |
-| 4. | [PythonFOSDEM](https://python-fosdem.org/) | Python | 21st December | Missed |
+| 1. | [PyConDE](https://2022.pycon.de/) | Python | 16th January | Apply |
+| 2. | [Kiwi PyCon](https://python.nz/) | Python | 30th November | Apply |
+| 3. | [PyCon Italia](https://pycon.it/en/) | Python | 9th January | Apply |
+| 4. | [PythonFOSDEM](https://python-fosdem.org/) | Python | 21st December | Apply |
 | N. | [All python conferences](https://www.python.org/community/workshops/) | Python | Keep checking | Try to apply |
 
-# Scholarships
-1. [CHARPAK LAB SCHOLARSHIP](https://www.inde.campusfrance.org/charpak-lab-scholarship)
-2. [DAAD Wise Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295)
+
