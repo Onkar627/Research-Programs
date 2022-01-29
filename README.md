@@ -38,13 +38,4 @@
 | 33. | [Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) | Microsoft Research India | - Be in the final year | 14th January | - Resume and at least one letter of recommendation | Apply in the final year |
 | 33. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Try to apply |
 | 34. | [Mathematical Sciences](https://www.mathprograms.org/db/49)| CMU | NA | 25th February |- 2 reference letters| Try to apply |
-# Conferences
-| Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
-| ------------- |----- | ------------------ | ----------------- | --------------- |
-| 1. | [PyConDE](https://2022.pycon.de/) | Python | 16th January | Apply |
-| 2. | [Kiwi PyCon](https://python.nz/) | Python | 30th November | Apply |
-| 3. | [PyCon Italia](https://pycon.it/en/) | Python | 9th January | Apply |
-| 4. | [PythonFOSDEM](https://python-fosdem.org/) | Python | 21st December | Apply |
-| N. | [All python conferences](https://www.python.org/community/workshops/) | Python | Keep checking | Try to apply |
-
 
