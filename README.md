@@ -13,7 +13,7 @@
 | 9. | [IRIS-HEP Fellowship](https://iris-hep.org/fellows/) | IRIS-HEP | - Undergraduate students and graduate students | Keep checking | NA | Try to apply |
 | 10. | [AMGEN Scholars Program](https://amgenscholars.com/asia-program/) | ![image](https://user-images.githubusercontent.com/74055102/146572473-2a6e8ad5-5eb4-4b70-ad6b-395d7504dc4b.png) | - At minimum, have completed their first year of undergraduate study at the time the summer program begins. </br> - Are not graduating before the summer program begins, and after the summer program ends will resume undergraduate studies for at least one semester or one quarter. | 1st February | - A minimum TOEFL (iBT) score of 72, IELTS overall band score of 5.5, Cambridge English FCE, TOEIC score of 1095, TOEIC L&R score of 785, or TOEIC S&W score of 310. </br> - Requires official academic transcript, Statement of Purpose, research experience and CV. | Try to apply |
 | 11. | [IBM Summer Internship Program](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101/) | IBM India | NA | 25th December | - Requires CV. (One can also reach out for referrals) , Coding test as selection criteria| Apply next year |
-| 12. | [SPARK @ IITR](https://spark.iitr.ac.in/) | IITR | - CGPA > 8.5 </br> - Students who would have done two semesters before summer 2022 and have atleast a semester remaining after summer 2022 are ONLY eligible. | 1st February | - Last semester marksheet of current degree, photograph, a 500-word research statement, and a brief 1-2 page resume. </br> - For students of other institutes, No Objection Certificate (NOC) will also be sought on joining. | APPLY BEFORE THE DEADLINE |
+| 12. | [SPARK @ IITR](https://spark.iitr.ac.in/) | IITR | - CGPA > 8.5 </br> - Students who would have done two semesters before summer 2022 and have atleast a semester remaining after summer 2022 are ONLY eligible. |  **February** | - Last semester marksheet of current degree, photograph, a 500-word research statement, and a brief 1-2 page resume. </br> - For students of other institutes, No Objection Certificate (NOC) will also be sought on joining. | APPLY BEFORE THE DEADLINE |
 | 13. | [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21/) | IIT Ropar | Keep checking | 16th April | Keep checking | APPLY BEFORE THE DEADLINE |
 | 14. | [SRIP @ IITGN](https://srip.iitgn.ac.in/info/) | IIT Gandhinagar | - Students in first, second and third year of UG studies are encouraged to apply. | 26th April | Keep checking | APPLY BEFORE THE DEADLINE |
 | 15. | [SURGE @ IITK](http://surge.iitk.ac.in/) | IITK | - 3rd year completed at the time of starting of internship. | 26th April | - Requires two LORs </br> - Requires official academic transcript, Research Proposal, and CV. | Apply next year |
@@ -38,10 +38,10 @@
 | 34. | [IIITD Midas](https://midas.iiitd.edu.in/openings/) | IIIT Delhi | Keep checking | Positions open in March | Keep checking | Try to apply |
 | 35. | [Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) | Microsoft Research India | - Be in the final year | 14th January | - Resume and at least one letter of recommendation | Apply in the final year |
 | 36. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Applied |
-| 37. | [Mathematical Sciences](https://www.mathprograms.org/db/49)| CMU | NA | 25th February |- 2 reference letters| Try to apply |
+| 37. | [Mathematical Sciences](https://www.mathprograms.org/db/49)| CMU | NA | **25th February |- 2 reference letters| Try to apply |
 | 38. | [KAUST Summer Internship](https://admissions.kaust.edu.sa) | KAUST | NA | January |CV,reference leters| Missed, Apply next year |
 | 39. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February |  
-| 40. | **[DHBSRI]**(https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | 15th February | 2 reference letters | Try to apply | 
+| 40. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
 
 # Fellowships
 
