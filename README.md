@@ -41,7 +41,7 @@
 | 37. | [Mathematical Sciences](https://www.mathprograms.org/db/49)| CMU | NA | **25th February |- 2 reference letters| Try to apply |
 | 38. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February |  
 | 39. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
-| 40. | [SFRP](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) | IITD | NOC | 31st March | resume,reference letter | Try to apply |
+| 40. | [SFRP](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) | IITD | NA | 31st March | NOC,resume,reference letter | Try to apply |
 
 # Fellowships
 
