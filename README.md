@@ -33,16 +33,15 @@
 | 29. | [ITRI Global Internship Program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346/) | Industrial Technology Research Institute | NA | Keep checking | Keep checking | Try to apply |
 | 30. | [NIMS Internship Program](https://www.nims.go.jp/eng/hr-development/internship.html/) | NIMS, Japan | NA | Keep checking | - **"And please contact the NIMS researcher DIRECTLY and send the documents listed below to him/her by E-mail."** </br> - Student enrollment/registration certificate </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
 | 31. | [EPFL](https://www.nims.go.jp/eng/hr-development/internship.html/) | EPFL | - To be eligible you must have completed at least your first two years of Bachelor at the time of the application | Keep checking | Keep checking | Missed, apply next year |
-| 32. | [Visiting Student Research Program](https://vsrp.kaust.edu.sa/) | KAUST (Saudi) | - 3rd Year and above Baccalaureate or Masters Students </br> - GPA 3.5/4 | Keep checking | - Valid passport and Letter of Recommendation. </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
+| 32. | [Visiting Student Research Program](https://vsrp.kaust.edu.sa/) | KAUST (Saudi) | - 3rd Year and above Baccalaureate or Masters Students </br> - GPA 3.5/4 | Keep checking | - Valid passport and Letter of Recommendation. </br> - Requires official academic transcript, Research statement and CV. | Missed,Apply next year |
 | 33. | [IIITD Alive](https://sites.google.com/iiitd.ac.in/iiitd-alive/) | IIIT Delhi | Keep checking | Positions open in November | - CV | Try to apply |
 | 34. | [IIITD Midas](https://midas.iiitd.edu.in/openings/) | IIIT Delhi | Keep checking | Positions open in March | Keep checking | Try to apply |
 | 35. | [Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) | Microsoft Research India | - Be in the final year | 14th January | - Resume and at least one letter of recommendation | Apply in the final year |
 | 36. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Applied |
 | 37. | [Mathematical Sciences](https://www.mathprograms.org/db/49)| CMU | NA | **25th February |- 2 reference letters| Try to apply |
-| 38. | [KAUST Summer Internship](https://admissions.kaust.edu.sa) | KAUST | NA | January |CV,reference leters| Missed, Apply next year |
-| 39. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February |  
-| 40. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
-| 41. | [SFRP](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) | IITD | NOC | 31st March | resume,reference letter | Try to apply |
+| 38. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February |  
+| 39. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
+| 40. | [SFRP](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) | IITD | NOC | 31st March | resume,reference letter | Try to apply |
 
 # Fellowships
 
