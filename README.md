@@ -42,6 +42,7 @@
 | 38. | [KAUST Summer Internship](https://admissions.kaust.edu.sa) | KAUST | NA | January |CV,reference leters| Missed, Apply next year |
 | 39. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February |  
 | 40. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
+| 41. | [SFRP](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) | IITD | NOC | 31st March | resume,reference letter | Try to apply |
 
 # Fellowships
 
