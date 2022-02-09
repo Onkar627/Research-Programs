@@ -43,6 +43,6 @@
 | 39. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
 | 40. | [SFRP](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) | IITD | NA | 31st March | NOC,resume,reference letter | Try to apply |
 
-# Fellowships
+# Scholarships
 
 
