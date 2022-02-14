@@ -21,7 +21,7 @@
 | 17. | [Research internship @ IITB](https://www.iitb.ac.in/en/education/research-internship/) | IITB | Keep checking | Keep checking | Keep checking | Try to apply |
 | 18. | [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/) | IISERK | Keep checking | 6th May | Keep checking | Try to apply |
 | 19. | [Internship @ CMI](https://www.cmi.ac.in/admissions/internships.php/) | CMI | - Typically, CMI does not offer internships to students before the end of their second year of college/university. | Keep checking | Keep checking | Try to apply |
-| 20. | [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships) | IIITD | Undergrad | 24th February- 31st March | NA | Try to apply |
+| 20. | [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships) | IIITD | Undergrad | 24th February- 31st March | Can apply maximum 3 projects | Apply |
 | 21. | [IUSSTF S.N Bose Scholars Program](https://www.iusstf.org/program/sn-bose-scholars-program/) | Keep checking | Keep checking | Keep checking | Keep checking | Try to apply |
 | 22. | [IUSSTF Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars/) | Keep checking | Keep checking | Keep checking | Keep checking | Try to apply |
 | 23. | [E4C Fellowship Summer](https://www.engineeringforchange.org/e4c-fellowship-summer-2022-apply/) | Keep checking | - Senior undergraduate, graduate and post-graduates in engineering/architecture | 31st January | - 2 – 3 references. You must be recommended by a representative of the University in which you are currently enrolled (ex. Program Manager, Lab Head, PI, etc.) and/or current Managers at the companies of current or past employment. </br> - 1-2 page letter of interest. </br> - ~ 200 words writing sample in English, CV. </br> - Letters of recommendation are optional but recommended. | Apply in the final year |
@@ -42,7 +42,6 @@
 | 38. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February |  
 | 39. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
 | 40. | [SFRP](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) | IITD | NA | 31st March | NOC,resume,reference letter | Try to apply |
-
 # Scholarships
 
 
