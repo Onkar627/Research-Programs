@@ -17,7 +17,7 @@
 | 13. | [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21/) | IIT Ropar | Opened | 16th April | Keep checking | APPLY BEFORE THE DEADLINE |
 | 14. | [SRIP @ IITGN](https://srip.iitgn.ac.in/info/) | IIT Gandhinagar | - Students in first, second and third year of UG studies are encouraged to apply.,Different SOP's wrt different projects applied | Result near 26th April, Application processes end near March | Deadline 25th March | Applied |
 | 15. | [SURGE @ IITK](http://surge.iitk.ac.in/) | IITK | - 3rd year completed at the time of starting of internship. | 26th April | - Requires two LORs </br> - Requires official academic transcript, Research Proposal, and CV. | Apply next year |
-| 16. | [SFP @ IITM](https://sfp.iitm.ac.in/) | IITM | Keep checking | Keep checking | Keep checking | Try to apply |
+| 16. | [SFP @ IITM](https://sfp.iitm.ac.in/) | IITM | Keep checking | Keep checking | For 3rd+ year students | Apply next year |
 | 17. | [Research internship @ IITB](https://www.iitb.ac.in/en/education/research-internship/) | IITB | Keep checking | Keep checking | Keep checking | Try to apply |
 | 18. | [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/) | IISERK | Keep checking | 6th May | Keep checking | Try to apply |
 | 19. | [Internship @ CMI](https://www.cmi.ac.in/admissions/internships.php/) | CMI | - Typically, CMI does not offer internships to students before the end of their second year of college/university. | Keep checking | Keep checking | Try to apply |
