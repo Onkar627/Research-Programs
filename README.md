@@ -38,7 +38,7 @@
 | 33. | [IIITD Alive](https://sites.google.com/iiitd.ac.in/iiitd-alive/) | IIIT Delhi | Keep checking | Positions open for research assistant | - CV | Try to apply |
 | 34. | [IIITD Midas](https://midas.iiitd.edu.in/openings/) | IIIT Delhi | Keep checking | Positions open in March | Keep checking | Apply next time |
 | 35. | [Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) | Microsoft Research India | - Be in the final year | 14th January | - Resume and at least one letter of recommendation | Apply in the final year |
-| 36. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Applied |
+| 36. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Rejected,Apply next year |
 | 37. | [Mathematical Sciences](https://www.mathprograms.org/db/49)| CMU | NA | **25th February |- 2 reference letters| Missed,apply next year |
 | 38. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February |  
 | 39. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
