@@ -40,7 +40,7 @@
 | 35. | [Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) | Microsoft Research India | - Be in the final year | 14th January | - Resume and at least one letter of recommendation | Apply in the final year |
 | 36. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Rejected,Apply next year |
 | 37. | [Mathematical Sciences](https://www.mathprograms.org/db/49)| CMU | NA | **25th February |- 2 reference letters| Missed,apply next year |
-| 38. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February |  
+| 38. | [ISRO](https://www.isro.gov.in) | ISRO | NA | February | Apply next year | 
 | 39. | [DHBSRI](https://www.mathprograms.org/db?apply-4-1212) | UCLA | NA | **15th February | 2 reference letters | Try to apply | 
 | 40. | [SFRP](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) | IITD | NA | 31st March | Contact Faculty in related field,NOC,resume,reference letter | Try to apply |
 | 41. | [Aalto](https://www.aalto.fi/fi) | Aalto | NA | February | Resume,Noc | Rejected, Apply next time |
