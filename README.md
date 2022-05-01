@@ -20,6 +20,7 @@
 | 16. | [SFP @ IITM](https://sfp.iitm.ac.in/) | IITM | Keep checking | Keep checking | For 3rd+ year students | Apply next year |
 | 17. | [Research internship @ IITB](https://www.iitb.ac.in/en/education/research-internship/) | IITB | Keep checking | Keep checking | Keep checking | Try to apply |
 | 18. | [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/) | IISERK | Applied | 10th May | Keep checking | Try to apply |
+| 18. | [IISER Bhopal Research Internship](https://www.iiserb.ac.in/doaa/internship)| IISERB | Applied | 17th April | 2nd May | 
 | 19. | [Internship @ CMI](https://www.cmi.ac.in/admissions/internships.php/) | CMI | - Typically, CMI does not offer internships to students before the end of their second year of college/university. | Keep checking | Keep checking | Try to apply |
 | 20. | [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships) | IIITD | Undergrad | 24th February- 31st March | Can apply maximum 3 projects | APPLIED, rejected |
 | 20. | [IIIT Hyderabad](https://www.iiitd.ac.in/placement/summer-internships) | IIITH | Undergrad,May be remote or on-campus | 6th March | Final results till 25th April | Applied |6
