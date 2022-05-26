@@ -37,6 +37,7 @@
 | 31. | [EPFL](https://www.nims.go.jp/eng/hr-development/internship.html/) | EPFL | - To be eligible you must have completed at least your first two years of Bachelor at the time of the application | Keep checking | Keep checking | Missed, apply next year |
 | 32. | [Visiting Student Research Program](https://vsrp.kaust.edu.sa/) | KAUST (Saudi) | - 3rd Year and above Baccalaureate or Masters Students </br> - GPA 3.5/4 | Keep checking | - Valid passport and Letter of Recommendation. </br> - Requires official academic transcript, Research statement and CV. | Missed,Apply next year |
 | 33. | [IIITD Alive](https://sites.google.com/iiitd.ac.in/iiitd-alive/) | IIIT Delhi | Keep checking | Positions open for research assistant | - CV | Try to apply |
+| 33. | [IIITD ](https://sites.google.com/iiitd.ac.in/iiitd-alive/) | IIIT Delhi(TAVLAB) | Keep checking | Positions open | - CV | Try to apply |
 | 34. | [IIITD Midas](https://midas.iiitd.edu.in/openings/) | IIIT Delhi | Keep checking | Positions open in March | Keep checking | Apply next time |
 | 35. | [Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) | Microsoft Research India | - Be in the final year | 14th January | - Resume and at least one letter of recommendation | Apply in the final year |
 | 36. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Rejected,Apply next year |
